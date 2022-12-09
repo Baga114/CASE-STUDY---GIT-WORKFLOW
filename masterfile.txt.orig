@@ -1,3 +1,6 @@
 hello i am a master file
+<<<<<<< HEAD
 this is feature add by fearure1
+=======
 This is the seconf feature add by feature2
+>>>>>>> feature2
