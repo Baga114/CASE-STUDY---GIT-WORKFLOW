@@ -1,1 +1,2 @@
 hello i am a master file
+this is feature add by fearure1
