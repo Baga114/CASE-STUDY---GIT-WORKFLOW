@@ -1,2 +1,3 @@
 hello i am a master file
 This is the seconf feature add by feature2
+add now feature
